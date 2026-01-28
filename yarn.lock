@@ -1775,19 +1775,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nicholas-roether/palantir-ui-solid@npm:^2.4.0":
+"@lina-roether/palantir-ui-solid@npm:^2.4.0":
   version: 2.4.0
-  resolution: "@nicholas-roether/palantir-ui-solid@npm:2.4.0::__archiveUrl=https%3A%2F%2Fnpm.pkg.github.com%2Fdownload%2F%40nicholas-roether%2Fpalantir-ui-solid%2F2.4.0%2F109caaf7087f6eb6e52168502749f7bb8adbd517"
+  resolution: "@lina-roether/palantir-ui-solid@npm:2.4.0::__archiveUrl=https%3A%2F%2Fnpm.pkg.github.com%2Fdownload%2F%40lina-roether%2Fpalantir-ui-solid%2F2.4.0%2F109caaf7087f6eb6e52168502749f7bb8adbd517"
   peerDependencies:
     "@nicholas-roether/palantir-ui": ~2.4.0
-  checksum: ce1555b940cc740bcd84e7483403932a6557df2394de6e7f38ffcf378840490387106f9c80f68e3e39669c6a6031a3c0f7bef26a8885afc2a1cea30809a051b8
+  checksum: 08d9ee3c9825da592ed72c111ac6260ba14190acedf208d63d9df98f51f2bca00f7e1ed92ad3005735fa7c9b36645359b2d20fd317762bd1aae4a6f20b6b740c
   languageName: node
   linkType: hard
 
-"@nicholas-roether/palantir-ui@npm:^2.4.0":
+"@lina-roether/palantir-ui@npm:^2.4.0":
   version: 2.4.0
-  resolution: "@nicholas-roether/palantir-ui@npm:2.4.0::__archiveUrl=https%3A%2F%2Fnpm.pkg.github.com%2Fdownload%2F%40nicholas-roether%2Fpalantir-ui%2F2.4.0%2F8e3a7e5518fd4c052631fe83b8b174b13e191701"
-  checksum: a0839705487cdd94377b41c1edc7d89af522a8b95031c620a4403561247e21081a84f87f6cb7026308660d06eb8dd66e58f3436866e7b7f5fa3a65a4b70f9292
+  resolution: "@lina-roether/palantir-ui@npm:2.4.0::__archiveUrl=https%3A%2F%2Fnpm.pkg.github.com%2Fdownload%2F%40lina-roether%2Fpalantir-ui%2F2.4.0%2F8e3a7e5518fd4c052631fe83b8b174b13e191701"
+  checksum: feeff01fae5609769d08574c7ca5f89a5457fea59113745e97e034ed230b426f9c3c4b9bd64c7c1e7bc1b0c65e08dc13557cba6d46e3e22bcd4bb11b465b8bb7
   languageName: node
   linkType: hard
 
@@ -5072,8 +5072,8 @@ __metadata:
     "@emotion/babel-plugin": ^11.11.0
     "@emotion/css": ^11.11.0
     "@iconify-json/game-icons": ^1.1.2
-    "@nicholas-roether/palantir-ui": ^2.4.0
-    "@nicholas-roether/palantir-ui-solid": ^2.4.0
+    "@lina-roether/palantir-ui": ^2.4.0
+    "@lina-roether/palantir-ui-solid": ^2.4.0
     "@svgr/core": ^8.0.0
     "@svgr/plugin-jsx": ^8.0.1
     "@types/firefox-webext-browser": ^111.0.1
