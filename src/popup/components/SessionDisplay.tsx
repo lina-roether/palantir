@@ -1,6 +1,6 @@
 import { JSX, ParentProps, Show } from "solid-js";
 import { SessionStatus, SessionType } from "../../common/messages";
-import { Button, Span } from "@nicholas-roether/palantir-ui-solid";
+import { Button, Span } from "@lina-roether/palantir-ui-solid";
 import { createInviteLink } from "../invite-link";
 import CopyLinkButton from "./CopyLinkButton";
 import UserList from "./UserList";

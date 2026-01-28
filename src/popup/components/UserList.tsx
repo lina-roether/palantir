@@ -1,5 +1,5 @@
 import { For, JSX, Match, Show, Switch } from "solid-js";
-import { Card, Heading } from "@nicholas-roether/palantir-ui-solid";
+import { Card, Heading } from "@lina-roether/palantir-ui-solid";
 import { css } from "@emotion/css";
 import { ClientIcon, HostIcon } from "../../common/components/icons";
 

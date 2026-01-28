@@ -1,7 +1,7 @@
 import { JSX } from "solid-js";
 import { createStore } from "solid-js/store";
 import { css } from "@emotion/css";
-import { TextInput, Button } from "@nicholas-roether/palantir-ui-solid";
+import { TextInput, Button } from "@lina-roether/palantir-ui-solid";
 import { createHostSession } from "../handle-session";
 import { HostIcon } from "../../common/components/icons";
 

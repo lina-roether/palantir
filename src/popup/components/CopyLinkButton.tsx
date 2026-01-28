@@ -1,5 +1,5 @@
 import { JSX } from "solid-js";
-import { Button } from "@nicholas-roether/palantir-ui-solid";
+import { Button } from "@lina-roether/palantir-ui-solid";
 import { ShareIcon } from "../../common/components/icons";
 
 interface CopyLinkButtonProps {
